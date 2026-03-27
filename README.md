@@ -16,6 +16,18 @@ SafeVault is a modern file security platform that enables users to safely upload
 
 ---
 
+## 📷 Screenshot
+
+<img width="1614" height="930" alt="Image" src="https://github.com/user-attachments/assets/204c0d8f-dc07-4cdd-b50e-6daad226fe09" />
+
+<img width="2411" height="1440" alt="Image" src="https://github.com/user-attachments/assets/0e7d8d89-8420-441b-942d-b0a522c0c71c" />
+
+<img width="1621" height="933" alt="Image" src="https://github.com/user-attachments/assets/f1a2c66c-556a-4743-93cc-888b142b9afc" />
+
+<img width="1597" height="928" alt="Image" src="https://github.com/user-attachments/assets/3006272c-a25b-4ab9-acd8-216567143bb4" />
+
+---
+
 ## 🖥️ Application Flow
 
 1. Upload File  
