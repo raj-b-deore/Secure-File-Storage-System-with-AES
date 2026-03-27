@@ -182,9 +182,3 @@ MONGO_URI=your_mongodb_uri
 PORT=5000
 ```
 ---
-
-## 📜 License
-
-MIT License
-
----
